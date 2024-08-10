@@ -6,12 +6,13 @@ require (
 	github.com/bytedance/sonic v1.11.8
 	github.com/cloudwego/kitex v0.10.3
 	github.com/google/wire v0.5.0
+	github.com/jinzhu/copier v0.3.5
 	github.com/kitex-contrib/obs-opentelemetry v0.2.3
 	github.com/xh-polaris/gopkg v0.0.0-20230915071845-b0ecd425cb58
 	github.com/xh-polaris/service-idl-gen-go v0.0.0-20240810131810-297bf97a1870
 	github.com/zeromicro/go-zero v1.5.6
 	go.mongodb.org/mongo-driver v1.12.1
-	google.golang.org/grpc v1.58.2
+	google.golang.org/grpc v1.58.3
 )
 
 require (
@@ -47,7 +48,6 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.15.2 // indirect
 	github.com/iancoleman/strcase v0.2.0 // indirect
 	github.com/jhump/protoreflect v1.15.2 // indirect
-	github.com/jinzhu/copier v0.3.5 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/compress v1.15.15 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.4 // indirect
